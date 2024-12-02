@@ -86,7 +86,7 @@ Example HTML File
 </head>
 <body>
     <h1>Check the Console for API Responses</h1>
-    <script src="script.js"></script>
+    <script src="rest_api.js"></script>
 </body>
 </html>
 
